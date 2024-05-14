@@ -1,0 +1,13 @@
+Resolviendo el segundo reto de atenea analisis de trafico.
+
+Filtro a buscar:
+
+frame contains "exe"
+o MZ
+
+Se trata de una intrusion en la que se consigue ofuscar un archivo exe.
+
+Hay que seguir el trafico tcp.
+
+solved: 192.168.1.224
+flag{1e6c61ba511b67db407486c2c2255fda}
